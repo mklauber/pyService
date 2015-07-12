@@ -1,0 +1,12 @@
+# Compilied python files
+*.pyc
+
+# Development Files
+.project
+.pydevproject
+
+# Compilation files
+build/
+dist/
+pyService.egg-info/
+
