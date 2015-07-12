@@ -9,7 +9,7 @@ config = {
     'url': 'https://github.com/mklauber/pyService',
     'download_url': 'git@github.com:mklauber/pyService.git',
     'author_email': 'github.com@mklauber.com',
-    'version': '0.1',
+    'version': '1.0',
     'install_requires': ['nose'],
     'packages': ['pyService'],
     'scripts': [],
